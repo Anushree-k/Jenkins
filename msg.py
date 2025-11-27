@@ -1,1 +1,2 @@
 print("Simple message from msg.py script")
+print("---------------------------------------")
